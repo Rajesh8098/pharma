@@ -1,0 +1,6 @@
+{
+  "name": "Structura3D — Macromolecular PDB & AlphaFold Workbench",
+  "description": "Interactive 3D protein structure viewer with RCSB PDB and AlphaFold DB integration, real-time residue selection, pLDDT confidence mapping, and geometric hydrogen bond network visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
